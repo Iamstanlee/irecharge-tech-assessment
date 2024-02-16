@@ -1,3 +1,14 @@
+[![CI](https://github.com/Iamstanlee/irecharge-tech-assessment/actions/workflows/main.yml/badge.svg)](https://github.com/Iamstanlee/irecharge-tech-assessment/actions/workflows/main.yml)
+[![coverage Status](https://coveralls.io/repos/github/Iamstanlee/irecharge-tech-assessment/badge.svg?branch=main)](https://coveralls.io/github/Iamstanlee/irecharge-tech-assessment?branch=main)
+
+### Screenshots 🌈
+
+<p>
+    <img src="/preview/s1.png" width="200px" hspace="10"/>
+    <img src="/preview/s2.png" width="200px" hspace="10"/>
+    <img src="/preview/s3.png" width="200px" hspace="10"/>
+</p>
+
 # mobile_assessment
 
 Irecharge mobile team assessment
